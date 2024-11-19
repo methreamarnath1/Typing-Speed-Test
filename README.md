@@ -35,7 +35,7 @@ A simple and interactive Typing Speed Tester web application that calculates you
 
 ### Results Display:
 
-![Results Display](results.png)
+![Results Display](result.png)
 
 ---
 
